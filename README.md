@@ -1,3 +1,3 @@
 # TCAD_automation
 
-PLease change configuration in "MOSFET_schmetics.cmd", "MOSFET.cmd", "get_csv.tcl".
+PLease change configurations in "MOSFET_schmetics.cmd", "MOSFET.cmd", "get_csv.tcl".
