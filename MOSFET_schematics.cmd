@@ -6,7 +6,7 @@
 (define tox 10e-3)
 (define p_doping -1e16)
 (define n_doping 1e20)
-(define path_123 "your_path")
+(define path_123 "your_path/MOSFET")
 
 	(sdegeo:create-rectangle (position (* Lsub -0.5) 0 0) (position (* Lsub 0.5) Hsub 0) "Silicon" "Substrate" )
 	(sdegeo:create-rectangle (position (* L -0.5) 0 0) (position (* L 0.5) (* tox -1) 0) "SiO2" "Oxide" )
